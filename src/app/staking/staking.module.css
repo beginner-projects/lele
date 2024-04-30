@@ -130,14 +130,14 @@
   .timerDiv {
     display: flex;
     justify-content: flex-start;
-    align-items: start;
+    align-items: flex-start;
   }
   .timerDiv {
     margin-top: 15px;
   }
   .balanceTimerDiv {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
   }
@@ -180,14 +180,14 @@
   .timerDiv {
     display: flex;
     justify-content: flex-start;
-    align-items: start;
+    align-items: flex-start;
   }
   .timerDiv {
     margin-top: 15px;
   }
   .balanceTimerDiv {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
   }
@@ -230,14 +230,14 @@
   .timerDiv {
     display: flex;
     justify-content: flex-start;
-    align-items: start;
+    align-items: flex-start;
   }
   .timerDiv {
     margin-top: 15px;
   }
   .balanceTimerDiv {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
   }
