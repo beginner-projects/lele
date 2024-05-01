@@ -8,31 +8,5 @@ body {
   color: white;
   background: #f9a703;
   background: linear-gradient(270deg, #f9a703, #fbca01);
-  // background: #000;
-}
-
-
-
-@media (min-width: 450px) {
-  body {
-    width: 100%;
-  }
-}
-
-@media (min-width: 600px) {
-  body {
-    width: 100%;
-  }
-}
-
-@media (min-width: 900px) {
-  body {
-    width: 100%;
-  }
-}
-
-@media (min-width: 1200px) {
-  body {
-    width: 100%;
-  }
+  
 }
