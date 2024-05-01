@@ -18,9 +18,8 @@
   height: auto;
   margin-top: -100px;
   border-radius: 30px;
-  filter: brightness(100%) blur(0.1px); /* Adjust brightness and blur for fading effect */
-  opacity: 1; /* Adjust opacity for fading effect */
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Add a subtle shadow for depth */
+  filter: brightness(100%) blur(0.1px);
+  
 }
 
 .mainPageHeading {
