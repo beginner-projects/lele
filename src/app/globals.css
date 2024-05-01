@@ -6,9 +6,9 @@ body {
   box-sizing: border-box;
   font-family: "ClashDisplay-Bold";
   color: white;
-  /* background: #f9a703; */
-  /* background: linear-gradient(270deg, #f9a703, #fbca01); */
-  background: #000;
+  background: #f9a703;
+  background: linear-gradient(270deg, #f9a703, #fbca01);
+  // background: #000;
 }
 
 
